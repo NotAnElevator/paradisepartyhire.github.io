@@ -27,13 +27,13 @@
 
 
   <p align="center">
-  <Slushie machine hire>
+  <li>Slushie machine hire</li>
   <li>Tables and Chairs </li>
   <li>party lights</li>
   <li>Bass boosted speakers</li>
   <li>Popcorn machine</li>
   <li>Smoke and Fog machines</li>
-</ul>
+
 <p align="center">
 <h2 id="get-in-touch"> Get in Touch</h2>
 
