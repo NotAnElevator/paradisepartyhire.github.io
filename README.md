@@ -1,8 +1,7 @@
 <!-- README.md -->
-<div style="background-color:Violet;"</h1>
 
 <h1 align="center"> Paradise Party Hire </h1>
-
+<div style="background-color:Violet;"</h1>
 <p align="center">
   The best option for party events in Gympie.
 </p>
