@@ -1,5 +1,5 @@
 <!-- README.md -->
-<div style="background-color:#fdf6e3; padding: 30px; border-radius: 10px;">
+<div style="background-color:#FFC0CB; >
 
 <h1 align="center">🎉 Paradise Party Hire 🎉</h1>
 
@@ -38,9 +38,9 @@
 
 <ul>
   <li>🌐 <strong>Website:</strong> <a href="https://paradisepartyrentals.com" target="_blank">https://yourwebsite.com</a></li>
-  <li>📧 <strong>Email:</strong> <a href="mailto:info@paradisepartyhire.com">info@paradisepartyhire.com</a></li>
+  <li>📧 <strong>Email:</strong> <a href="mailto:gympieparadisepartyrentals@gmail.com">info@paradisepartyhire.com</a></li>
   <li>📍 <strong>Location:</strong> Your City, Your Country</li>
-  <li>📱 <strong>Phone:</strong> +gympieparadisepartyrentals@gmail.com</li>
+  <li>📱 <strong>Phone:</strong> +</li>
 </ul>
 
 <hr>
