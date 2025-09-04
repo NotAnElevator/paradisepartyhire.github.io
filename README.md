@@ -26,6 +26,7 @@
 <h2 id="services"> Our Services</h2>
 
 <ul>
+  <p align="center">
   <li>Slushie machine hire</li>
   <li>Tables and Chairs </li>
   <li>party lights</li>
@@ -33,10 +34,11 @@
   <li>Popcorn machine</li>
   <li>Smoke and Fog machines</li>
 </ul>
-
+<p align="center">
 <h2 id="get-in-touch"> Get in Touch</h2>
 
 <ul>
+  <p align="center">
   <li> <strong>Website:</strong> <a href="https://paradisepartyrentals.com" target="_blank">https://yourwebsite.com</a></li>
   <li> <strong>Email:</strong> <a href="mailto:gympieparadisepartyrentals@gmail.com">info@paradisepartyhire.com</a></li>
   <li> <strong>Location:</strong> Your City, Your Country</li>
