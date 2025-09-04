@@ -25,9 +25,9 @@
 
 <h2 id="services"> Our Services</h2>
 
-<ul>
+
   <p align="center">
-  <li>Slushie machine hire</li>
+  <Slushie machine hire>
   <li>Tables and Chairs </li>
   <li>party lights</li>
   <li>Bass boosted speakers</li>
