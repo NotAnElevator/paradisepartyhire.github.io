@@ -1,7 +1,7 @@
 <!-- README.md -->
 <div style="background-color:Violet;"</h1>
 
-<h1 align="center">🎉 Paradise Party Hire 🎉</h1>
+<h1 align="center"> Paradise Party Hire </h1>
 
 <p align="center">
   The best option for party events in Gympie.
@@ -16,14 +16,14 @@
 
 <hr>
 
-<h2>📢 About Us</h2>
+<h2> About Us</h2>
 
 <p align="center">
   <strong>Paradise Party Hire</strong> specializes in providing high-quality party equipment and event styling services
   for all kinds of occasions. From tables and chairs to Slushie machines and fairy floss, we will bring your event to life.
 </p>
 
-<h2 id="services">🎈 Our Services</h2>
+<h2 id="services"> Our Services</h2>
 
 <ul>
   <li>Slushie machine hire</li>
@@ -34,13 +34,13 @@
   <li>Smoke and Fog machines</li>
 </ul>
 
-<h2 id="get-in-touch">📞 Get in Touch</h2>
+<h2 id="get-in-touch"> Get in Touch</h2>
 
 <ul>
-  <li>🌐 <strong>Website:</strong> <a href="https://paradisepartyrentals.com" target="_blank">https://yourwebsite.com</a></li>
-  <li>📧 <strong>Email:</strong> <a href="mailto:gympieparadisepartyrentals@gmail.com">info@paradisepartyhire.com</a></li>
-  <li>📍 <strong>Location:</strong> Your City, Your Country</li>
-  <li>📱 <strong>Phone:</strong> +0447 311 618</li>
+  <li> <strong>Website:</strong> <a href="https://paradisepartyrentals.com" target="_blank">https://yourwebsite.com</a></li>
+  <li> <strong>Email:</strong> <a href="mailto:gympieparadisepartyrentals@gmail.com">info@paradisepartyhire.com</a></li>
+  <li> <strong>Location:</strong> Your City, Your Country</li>
+  <li> <strong>Phone:</strong> +0447 311 618</li>
 </ul>
 
 <hr>
