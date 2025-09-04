@@ -24,9 +24,6 @@
 
 <h2 id="services"> Our Services</h2>
 
-<html>
-<head>
-<style>
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
