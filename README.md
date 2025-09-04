@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center"> Paradise Party Hire </h1>
+<h1 align="center"> Paradise Party Rentals </h1>
 
 <p align="center">
   The best option for party events in Gympie.
@@ -24,7 +24,13 @@
 
 <h2 id="services"> Our Services</h2>
 
-
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+  
   <p align="center">
   <li>Slushie machine hire</li>
   <li>Tables and Chairs </li>
