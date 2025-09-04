@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center"> Paradise Party Hire </h1>
-<div style="background-color:Violet;"</h1>
+
 <p align="center">
   The best option for party events in Gympie.
 </p>
@@ -13,7 +13,7 @@
   <a href="#get-in-touch"> Get in Touch</a>
 </p>
 
-<hr>
+
 
 <h2> About Us</h2>
 
