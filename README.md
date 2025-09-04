@@ -1,4 +1,5 @@
 <!-- README.md -->
+<div style="background-color:#fdf6e3; padding: 30px; border-radius: 10px;">
 
 <h1 align="center">🎉 Paradise Party Hire 🎉</h1>
 
