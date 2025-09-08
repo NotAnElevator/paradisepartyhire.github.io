@@ -12,9 +12,8 @@
     <a href="#services"> Our Services</a> •
     <a href="#get-in-touch"> Get in Touch</a>
   </p>
-</div>
 
-<div style="background-color:#ffffff; padding: 30px; text-align: center;">
+<div style="background-color:#violet; padding: 30px; text-align: center;">
 
   <h2>📢 About Us</h2>
   <p>
@@ -30,7 +29,7 @@
     <li>Bass Boosted Speakers</li>
     <li>Popcorn Machine</li>
     <li>Smoke and Fog Machines</li>
-  </ul>
+  
 
   <h2 id="get-in-touch"> Get in Touch</h2>
   <ul style="list-style-position: inside; display: inline-block; text-align: left;">
