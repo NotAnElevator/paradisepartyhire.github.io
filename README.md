@@ -7,13 +7,11 @@
   <p>The best option for party events in Gympie.</p>
 
   <p>
-    <a href="https://paradisepartyrentals.com" target="_blank">🌐 Visit Our Website</a> •
-    <a href="mailto:gympieparadisepartyrentals@gmail.com">📧 Contact Us</a> •
-    <a href="#services"> Our Services</a> •
+    <a href="https://paradisepartyrentals.com" target="_blank">🌐 Visit Our Website</a>
+    <a href="mailto:gympieparadisepartyrentals@gmail.com">📧 Contact Us</a>
+    <a href="#services"> Our Services</a>
     <a href="#get-in-touch"> Get in Touch</a>
   </p>
-
-<div style="background-color:#violet; padding: 30px; text-align: center;">
 
   <h2>📢 About Us</h2>
   <p>
