@@ -1,10 +1,12 @@
 <!-- README.md -->
 
-<div style="background-color:#ffc0cb; padding: 30px; border-radius: 8px; text-align: center;">
+<div style="background-color:#ffc0cb; margin: 30px; border-radius: 8px; text-align: center;">
 
   <h1> Paradise Party Rentals </h1>
 
   <p>The best option for party events in Gympie.</p>
+
+  <p> what we offer</p>
 
   <p>
     <a href="https://paradisepartyrentals.com" target="_blank">🌐 Visit Our Website</a>
