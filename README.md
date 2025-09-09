@@ -1,21 +1,22 @@
 <!-- README.md -->
 
-<div style="background-color:#ffc0cb; margin: 30px; border-radius: 8px; text-align: center;">
+<div style="background-color:#ffc0cb; padding: 30px 0; border-radius: 0; text-align: center; width: 100%;">
 
-  <h1> Paradise Party Rentals </h1>
+
+  <h1> style="color: #FF1493;">🎉 Paradise Party Rentals</h1>
 
   <p>The best option for party events in Gympie.</p>
 
   <p> what we offer</p>
 
   <p>
-    <a href="https://paradisepartyrentals.com" target="_blank">🌐 Visit Our Website</a>
-    <a href="mailto:gympieparadisepartyrentals@gmail.com">📧 Contact Us</a>
-    <a href="#services"> Our Services</a>
-    <a href="#get-in-touch"> Get in Touch</a>
+    <a href="https://paradisepartyrentals.com" target="_blank">🌐 Visit Our Website</a> |
+    <a href="mailto:gympieparadisepartyrentals@gmail.com">📧 Contact Us</a> |
+    <a href="#services"> Our Services</a> |
+    <a href="#get-in-touch"> Get in Touch</a>|
   </p>
 
-  <h2>📢 About Us</h2>
+  <h2>  style="color: #FF5733;"> About Us</h2>
   <p>
     <strong>Paradise Party Rentals</strong> specializes in providing high-quality party equipment and event styling services
     for all kinds of occasions. From tables and chairs to slushie machines and fairy floss, we will bring your event to life.
